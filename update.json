@@ -1,8 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
+  "latestVersion": 1,
   "apkUrl": "https://github.com/SniperStopSniping/school-updates/releases/download/v1/app-release.apk",
-  "sha256": "",
-  "minSupportedVersionCode": 1,
-  "notes": "First release"
+  "forceUpdate": false,
+  "changelog": "Initial release"
 }
