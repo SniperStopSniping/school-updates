@@ -1,6 +1,6 @@
 {
-  "latestVersion": 2,
-  "apkUrl": "https://github.com/SniperStopSniping/school-updates/releases/download/v1/app-release.apk",
+  "latestVersion": 7,
+  "apkUrl": "https://github.com/SniperStopSniping/school-updates/releases/download/v2.0.5/app-release.apk",
   "forceUpdate": false,
-  "changelog": "Initial release"
+  "changelog": "Fixed categories, added placeholder images, home screen improvements"
 }
